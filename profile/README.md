@@ -13,7 +13,9 @@ Expo is trusted across the world, from startups to Fortune 500 companies. Check 
 ## Community
 
 💬 Join us on [Discord](https://chat.expo.dev/) or the [forums](https://forums.expo.dev/) to discuss the release.
+
 ⭐️ Help us out by [starring Expo on GitHub](https://github.com/expo/expo), filing bug reports in [Expo issues](https://github.com/expo/expo/issues), or opening [discussions](https://github.com/expo/expo/discussions) with questions or proposals.
+
 👥 Follow Expo on [Twitter](https://twitter.com/expo) for more updates.
 
 ## Repos
