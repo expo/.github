@@ -1,10 +1,4 @@
-## Welcome to Expo
-
-Expo is an open-source React framework for building _truly_ native apps and websites.
-
-## Getting Started
-
-Go to the [Expo docs](https://docs.expo.dev/) to start creating powerful native apps!
+Expo is an open-source React framework for building _truly_ native apps and websites. [Read the documentation to get started](https://docs.expo.dev/).
 
 ## Who's using Expo?
 
