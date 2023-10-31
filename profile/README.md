@@ -6,7 +6,7 @@ Expo is trusted across the world, from startups to Fortune 500 companies. Check 
 
 ## Community
 
-💬 Join us on [Discord](https://chat.expo.dev/) or the [forums](https://forums.expo.dev/) to discuss the release.
+💬 Join us on [Discord](https://chat.expo.dev/) to chat with the Expo community, discuss the release, or ask questions.
 
 ⭐️ Help us out by [starring Expo on GitHub](https://github.com/expo/expo), filing bug reports in [Expo issues](https://github.com/expo/expo/issues), or opening [discussions](https://github.com/expo/expo/discussions) with questions or proposals.
 
@@ -14,12 +14,12 @@ Expo is trusted across the world, from startups to Fortune 500 companies. Check 
 
 ## Repos
 
-The Expo organization has many repositories, here are the most important ones:
+The Expo organization has many repositories. Here are the most important ones:
 
 <!--
 This is a list of packages we want users to contribute to and interact with.
 
-Repos like expo/fyi for example aren't super useful out of context.
+Repos like expo/fyi, for example, aren't super useful out of context.
 -->
 
 - [expo/expo](https://github.com/expo/expo): Expo Go, SDK, Docs, and the Expo CLI.
