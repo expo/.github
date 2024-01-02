@@ -10,7 +10,7 @@ Expo is trusted across the world, from startups to Fortune 500 companies. Check 
 
 ⭐️ Help us out by [starring Expo on GitHub](https://github.com/expo/expo), filing bug reports in [Expo issues](https://github.com/expo/expo/issues), or opening [discussions](https://github.com/expo/expo/discussions) with questions or proposals.
 
-👥 Follow Expo on [Twitter](https://twitter.com/expo) for more updates.
+👥 Follow Expo on [X](https://twitter.com/expo) for more updates.
 
 ## Repos
 
@@ -23,8 +23,9 @@ Repos like expo/fyi, for example, aren't super useful out of context.
 -->
 
 - [expo/expo](https://github.com/expo/expo): Expo Go, SDK, Docs, and the Expo CLI.
-- [expo/eas-cli](https://github.com/expo/eas-cli): Fastest way to build, submit, and update iOS and Android apps.
+- [expo/eas-cli](https://github.com/expo/eas-cli): Fastest way to build, submit, and update Android and iOS apps.
 - [expo/examples](https://github.com/expo/examples): Integrations and other examples.
 - [expo/config-plugins](https://github.com/expo/config-plugins): Expo Config Plugins for working with third-party packages.
 - [expo/snack](https://github.com/expo/snack): Build apps from the browser.
 - [expo/vscode-expo](https://github.com/expo/vscode-expo): VS code extension for working with Expo tools.
+- [expo/orbit](https://github.com/expo/orbit): Launch builds and start simulators from your macOS menu bar.
